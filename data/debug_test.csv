@@ -1,0 +1,51 @@
+"","X","name","data","value","social","category","value_clean"
+"1",1,"Nike","twitter_followers","9863642","twitter","followers",9863642
+"2",3,"Nike","facebook_followers","38667225","facebook","followers",38667225
+"3",4,"Nike","instagram_followers","305M","instagram","followers",305000000
+"4",5,"Nike","tiktok_followers","4.7M","tiktok","followers",4700000
+"5",7,"Nike","pinterest_followers","965k","pinterest","followers",965000
+"6",8,"Adidas","twitter_followers","4377037","twitter","followers",4377037
+"7",10,"Adidas","facebook_followers","41755214","facebook","followers",41755214
+"8",11,"Adidas","instagram_followers","27.9M","instagram","followers",27900000
+"9",12,"Adidas","tiktok_followers","5.5M","tiktok","followers",5500000
+"10",14,"Adidas","pinterest_followers","720.4k","pinterest","followers",720400
+"11",15,"Skechers","twitter_followers","48697","twitter","followers",48697
+"12",17,"Skechers","facebook_followers","7664864","facebook","followers",7664864
+"13",18,"Skechers","instagram_followers","1.1M","instagram","followers",1100000
+"14",19,"Skechers","tiktok_followers","201.2K","tiktok","followers",201200
+"15",21,"Skechers","pinterest_followers","39.1k","pinterest","followers",39100
+"16",22,"New Balance","twitter_followers","294664","twitter","followers",294664
+"17",24,"New Balance","facebook_followers","9127640","facebook","followers",9127640
+"18",25,"New Balance","instagram_followers","7.1M","instagram","followers",7100000
+"19",26,"New Balance","tiktok_followers","267.2K","tiktok","followers",267200
+"20",28,"New Balance","pinterest_followers","116.5k","pinterest","followers",116500
+"21",29,"ASICS","twitter_followers","97233","twitter","followers",97233
+"22",31,"ASICS","facebook_followers","x","facebook","followers",NA
+"23",32,"ASICS","instagram_followers","1M","instagram","followers",1000000
+"24",33,"ASICS","tiktok_followers","97.9K","tiktok","followers",97900
+"25",35,"ASICS","pinterest_followers","26.2k","pinterest","followers",26200
+"26",36,"Puma","twitter_followers","1998499","twitter","followers",1998499
+"27",38,"Puma","facebook_followers","x","facebook","followers",NA
+"28",39,"Puma","instagram_followers","13M","instagram","followers",13000000
+"29",40,"Puma","tiktok_followers","4.3M","tiktok","followers",4300000
+"30",42,"Puma","pinterest_followers","118.4k","pinterest","followers",118400
+"31",43,"Under Armour","twitter_followers","963820","twitter","followers",963820
+"32",45,"Under Armour","facebook_followers","11651501","facebook","followers",11651501
+"33",46,"Under Armour","instagram_followers","8.3M","instagram","followers",8300000
+"34",47,"Under Armour","tiktok_followers","607.6K","tiktok","followers",607600
+"35",49,"Under Armour","pinterest_followers","189k","pinterest","followers",189000
+"36",50,"Fila","twitter_followers","69851","twitter","followers",69851
+"37",52,"Fila","facebook_followers","303K","facebook","followers",303000
+"38",53,"Fila","instagram_followers","2.4M","instagram","followers",2400000
+"39",54,"Fila","tiktok_followers","x","tiktok","followers",NA
+"40",56,"Fila","pinterest_followers","12.3k","pinterest","followers",12300
+"41",57,"Columbia","twitter_followers","127710","twitter","followers",127710
+"42",59,"Columbia","facebook_followers","2453789","facebook","followers",2453789
+"43",60,"Columbia","instagram_followers","584K","instagram","followers",584000
+"44",61,"Columbia","tiktok_followers","176.6K","tiktok","followers",176600
+"45",63,"Columbia","pinterest_followers","24.9k","pinterest","followers",24900
+"46",64,"K-Swiss","twitter_followers","25028","twitter","followers",25028
+"47",66,"K-Swiss","facebook_followers","x","facebook","followers",NA
+"48",67,"K-Swiss","instagram_followers","110K","instagram","followers",110000
+"49",68,"K-Swiss","tiktok_followers","x","tiktok","followers",NA
+"50",70,"K-Swiss","pinterest_followers","x","pinterest","followers",NA
