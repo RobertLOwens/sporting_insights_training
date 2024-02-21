@@ -12,6 +12,11 @@ server <- function(input, output, session) {
   shoe_followers_social <- read.csv("data/brands_social_followers.csv")
   
   observe({
+    
+    print("Local Change")
+    mtcars <- mtcars %>% 
+      filter(cyl == 2)
+    
     updateSelectInput(session, "brands", 
                       choices = unique(shoe_followers_social$name),
                       selected = unique(shoe_followers_social$name))
