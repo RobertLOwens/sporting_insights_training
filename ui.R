@@ -32,6 +32,7 @@ ui <- fluidPage(
   selectInput("brands", "Brands", multiple = TRUE, choices = NULL),
   selectInput("category", "Category", choices = c("Followers" = "followers", "Likes" = "likes")),
   actionButton("apply", "Apply Filter Changes"),
+  p("Changes were made here!"),
   fluidRow(
     column(1),
     column(8,
