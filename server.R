@@ -5,6 +5,7 @@
 # PURPOSE: LESSONS ON DATA VIZ AND PREP
 #
 ################################################################################
+#ADDED THIS LINE AT THE TOP
 
 server <- function(input, output, session) {
   
