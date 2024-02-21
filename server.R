@@ -16,7 +16,7 @@ server <- function(input, output, session) {
     
     print("Local Change")
     mtcars <- mtcars %>% 
-      filter(cyl == 1)
+      filter(cyl == 5)
     
     updateSelectInput(session, "brands", 
                       choices = unique(shoe_followers_social$name),
