@@ -53,7 +53,8 @@ server <- function(input, output, session) {
     
     ggplot(shoe_followers_social_r(), aes(value_clean, fct_reorder(name, value_clean, .na_rm = T))) + 
       geom_segment(aes(xend = 0, yend = name)) +
-      geom_point(size = 4, color="orange") +
+      #NS - changing the geom_point size from 4 to 3
+      geom_point(size = 3, color="orange") +
       facet_wrap(~social, scales = "free_x", ncol = 2) +
       labs(x = "Followers",  y = "Brand Name", title = "Followers by Brand") + 
       theme_bw() + 
